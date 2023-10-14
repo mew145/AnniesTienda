@@ -1,0 +1,28 @@
+C:\Users\John\source\repos\Capa Negocio\bin\Debug\net472\Capa Negocio.dll
+C:\Users\John\source\repos\Capa Negocio\bin\Debug\net472\Capa Negocio.pdb
+C:\Users\John\source\repos\Capa Negocio\bin\Debug\net472\Capa de datos.dll
+C:\Users\John\source\repos\Capa Negocio\bin\Debug\net472\Capa Entidad.dll
+C:\Users\John\source\repos\Capa Negocio\bin\Debug\net472\Capa de datos.pdb
+C:\Users\John\source\repos\Capa Negocio\bin\Debug\net472\Capa Entidad.pdb
+C:\Users\John\source\repos\Capa Negocio\obj\Debug\net472\Capa Negocio.csproj.AssemblyReference.cache
+C:\Users\John\source\repos\Capa Negocio\obj\Debug\net472\Capa Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\source\repos\Capa Negocio\obj\Debug\net472\Capa Negocio.AssemblyInfoInputs.cache
+C:\Users\John\source\repos\Capa Negocio\obj\Debug\net472\Capa Negocio.AssemblyInfo.cs
+C:\Users\John\source\repos\Capa Negocio\obj\Debug\net472\Capa Negocio.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\Capa Negocio\obj\Debug\net472\Capa Negocio.csproj.CopyComplete
+C:\Users\John\source\repos\Capa Negocio\obj\Debug\net472\Capa Negocio.dll
+C:\Users\John\source\repos\Capa Negocio\obj\Debug\net472\Capa Negocio.pdb
+C:\Users\John\source\repos\Annies Store\Capa Negocio\bin\Debug\net472\Capa Negocio.dll
+C:\Users\John\source\repos\Annies Store\Capa Negocio\bin\Debug\net472\Capa Negocio.pdb
+C:\Users\John\source\repos\Annies Store\Capa Negocio\bin\Debug\net472\Capa de datos.dll
+C:\Users\John\source\repos\Annies Store\Capa Negocio\bin\Debug\net472\Capa Entidad.dll
+C:\Users\John\source\repos\Annies Store\Capa Negocio\bin\Debug\net472\Capa de datos.pdb
+C:\Users\John\source\repos\Annies Store\Capa Negocio\bin\Debug\net472\Capa Entidad.pdb
+C:\Users\John\source\repos\Annies Store\Capa Negocio\obj\Debug\net472\Capa Negocio.csproj.AssemblyReference.cache
+C:\Users\John\source\repos\Annies Store\Capa Negocio\obj\Debug\net472\Capa Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\source\repos\Annies Store\Capa Negocio\obj\Debug\net472\Capa Negocio.AssemblyInfoInputs.cache
+C:\Users\John\source\repos\Annies Store\Capa Negocio\obj\Debug\net472\Capa Negocio.AssemblyInfo.cs
+C:\Users\John\source\repos\Annies Store\Capa Negocio\obj\Debug\net472\Capa Negocio.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\Annies Store\Capa Negocio\obj\Debug\net472\Capa Negocio.csproj.CopyComplete
+C:\Users\John\source\repos\Annies Store\Capa Negocio\obj\Debug\net472\Capa Negocio.dll
+C:\Users\John\source\repos\Annies Store\Capa Negocio\obj\Debug\net472\Capa Negocio.pdb

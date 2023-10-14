@@ -1,0 +1,24 @@
+C:\Users\John\source\repos\Capa de datos\bin\Debug\net472\Capa de datos.dll
+C:\Users\John\source\repos\Capa de datos\bin\Debug\net472\Capa de datos.pdb
+C:\Users\John\source\repos\Capa de datos\bin\Debug\net472\Capa Entidad.dll
+C:\Users\John\source\repos\Capa de datos\bin\Debug\net472\Capa Entidad.pdb
+C:\Users\John\source\repos\Capa de datos\obj\Debug\net472\Capa de datos.csproj.AssemblyReference.cache
+C:\Users\John\source\repos\Capa de datos\obj\Debug\net472\Capa de datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\source\repos\Capa de datos\obj\Debug\net472\Capa de datos.AssemblyInfoInputs.cache
+C:\Users\John\source\repos\Capa de datos\obj\Debug\net472\Capa de datos.AssemblyInfo.cs
+C:\Users\John\source\repos\Capa de datos\obj\Debug\net472\Capa de datos.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\Capa de datos\obj\Debug\net472\Capa de datos.csproj.CopyComplete
+C:\Users\John\source\repos\Capa de datos\obj\Debug\net472\Capa de datos.dll
+C:\Users\John\source\repos\Capa de datos\obj\Debug\net472\Capa de datos.pdb
+C:\Users\John\source\repos\Annies Store\Capa de datos\bin\Debug\net472\Capa de datos.dll
+C:\Users\John\source\repos\Annies Store\Capa de datos\bin\Debug\net472\Capa de datos.pdb
+C:\Users\John\source\repos\Annies Store\Capa de datos\bin\Debug\net472\Capa Entidad.dll
+C:\Users\John\source\repos\Annies Store\Capa de datos\bin\Debug\net472\Capa Entidad.pdb
+C:\Users\John\source\repos\Annies Store\Capa de datos\obj\Debug\net472\Capa de datos.csproj.AssemblyReference.cache
+C:\Users\John\source\repos\Annies Store\Capa de datos\obj\Debug\net472\Capa de datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\source\repos\Annies Store\Capa de datos\obj\Debug\net472\Capa de datos.AssemblyInfoInputs.cache
+C:\Users\John\source\repos\Annies Store\Capa de datos\obj\Debug\net472\Capa de datos.AssemblyInfo.cs
+C:\Users\John\source\repos\Annies Store\Capa de datos\obj\Debug\net472\Capa de datos.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\Annies Store\Capa de datos\obj\Debug\net472\Capa de datos.csproj.CopyComplete
+C:\Users\John\source\repos\Annies Store\Capa de datos\obj\Debug\net472\Capa de datos.dll
+C:\Users\John\source\repos\Annies Store\Capa de datos\obj\Debug\net472\Capa de datos.pdb

@@ -1,0 +1,22 @@
+C:\Users\John\source\repos\Annies Store\bin\Debug\Annies Store.exe.config
+C:\Users\John\source\repos\Annies Store\bin\Debug\Annies Store.exe
+C:\Users\John\source\repos\Annies Store\bin\Debug\Annies Store.pdb
+C:\Users\John\source\repos\Annies Store\obj\Debug\MainWindow.g.cs
+C:\Users\John\source\repos\Annies Store\obj\Debug\App.g.cs
+C:\Users\John\source\repos\Annies Store\obj\Debug\Annies Store_MarkupCompile.cache
+C:\Users\John\source\repos\Annies Store\obj\Debug\Annies Store_MarkupCompile.lref
+C:\Users\John\source\repos\Annies Store\obj\Debug\MainWindow.baml
+C:\Users\John\source\repos\Annies Store\obj\Debug\Annies Store.g.resources
+C:\Users\John\source\repos\Annies Store\obj\Debug\Annies_Store.Properties.Resources.resources
+C:\Users\John\source\repos\Annies Store\obj\Debug\Annies Store.csproj.GenerateResource.cache
+C:\Users\John\source\repos\Annies Store\obj\Debug\Annies Store.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\Annies Store\obj\Debug\Annies Store.exe
+C:\Users\John\source\repos\Annies Store\obj\Debug\Annies Store.pdb
+C:\Users\John\source\repos\Annies Store\obj\Debug\Views\Usuarios.g.cs
+C:\Users\John\source\repos\Annies Store\obj\Debug\Views\Usuarios.baml
+C:\Users\John\source\repos\Annies Store\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\John\source\repos\Annies Store\obj\Debug\Views\CRUDUsuarios.g.cs
+C:\Users\John\source\repos\Annies Store\obj\Debug\Views\CRUDUsuarios.baml
+C:\Users\John\source\repos\Annies Store\bin\Debug\System.Drawing.Common.dll
+C:\Users\John\source\repos\Annies Store\obj\Debug\Annies Store.csproj.CopyComplete
+C:\Users\John\source\repos\Annies Store\obj\Debug\Annies Store.csproj.SuggestedBindingRedirects.cache

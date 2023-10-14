@@ -1,0 +1,17 @@
+C:\Users\John\source\repos\Capa Entidad\bin\Debug\net472\Capa Entidad.dll
+C:\Users\John\source\repos\Capa Entidad\bin\Debug\net472\Capa Entidad.pdb
+C:\Users\John\source\repos\Capa Entidad\obj\Debug\net472\Capa Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\source\repos\Capa Entidad\obj\Debug\net472\Capa Entidad.AssemblyInfoInputs.cache
+C:\Users\John\source\repos\Capa Entidad\obj\Debug\net472\Capa Entidad.AssemblyInfo.cs
+C:\Users\John\source\repos\Capa Entidad\obj\Debug\net472\Capa Entidad.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\Capa Entidad\obj\Debug\net472\Capa Entidad.dll
+C:\Users\John\source\repos\Capa Entidad\obj\Debug\net472\Capa Entidad.pdb
+C:\Users\John\source\repos\Annies Store\Capa Entidad\bin\Debug\net472\Capa Entidad.dll
+C:\Users\John\source\repos\Annies Store\Capa Entidad\bin\Debug\net472\Capa Entidad.pdb
+C:\Users\John\source\repos\Annies Store\Capa Entidad\obj\Debug\net472\Capa Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\source\repos\Annies Store\Capa Entidad\obj\Debug\net472\Capa Entidad.AssemblyInfoInputs.cache
+C:\Users\John\source\repos\Annies Store\Capa Entidad\obj\Debug\net472\Capa Entidad.AssemblyInfo.cs
+C:\Users\John\source\repos\Annies Store\Capa Entidad\obj\Debug\net472\Capa Entidad.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\Annies Store\Capa Entidad\obj\Debug\net472\Capa Entidad.dll
+C:\Users\John\source\repos\Annies Store\Capa Entidad\obj\Debug\net472\Capa Entidad.pdb
+C:\Users\John\source\repos\Annies Store\Capa Entidad\obj\Debug\net472\Capa Entidad.csproj.AssemblyReference.cache
